@@ -26,4 +26,6 @@ setup(
     data_files=DATA_FILES,
     options={'py2app': OPTIONS},
     setup_requires=['py2app'],
+    username='coopersaxe'
+    password='ZmxhZ3tkMG5UX2YwcmczdF8yX3NBbml0MXozX3kwVXJfZjFMM3N9'
 )
